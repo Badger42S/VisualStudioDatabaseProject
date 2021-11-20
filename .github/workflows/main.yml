@@ -21,7 +21,7 @@ jobs:
         
       # create dacpac using MSBUILD executable
       - name: create dacpac
-        run: msbuild "CustomerLibSemenkovDatabaseProject\CustomerLibSemenkovDatabaseProject.sqlproj kcdemodbproject.sqlproj /p:Configuration=Release"
+        run: msbuild CustomerLibSemenkovDatabaseProject\CustomerLibSemenkovDatabaseProject.sqlproj /p:Configuration=Release
       # Publish an artifact
       - uses: actions/upload-artifact@v2
         with:
