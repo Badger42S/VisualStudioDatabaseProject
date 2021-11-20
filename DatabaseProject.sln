@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CustomerLibSemenkovDatabaseProject", "CustomerLibSemenkovDatabaseProject\CustomerLibSemenkovDatabaseProject.sqlproj", "{29FA5E21-B3E0-4A93-9E69-8AAE67F8831B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WeeklyTeamReportDatabaseProject", "WeeklyTeamReportDatabaseProject\WeeklyTeamReportDatabaseProject.sqlproj", "{28445919-2277-4ACA-809D-2B69DE422078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FA5E21-B3E0-4A93-9E69-8AAE67F8831B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FA5E21-B3E0-4A93-9E69-8AAE67F8831B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FA5E21-B3E0-4A93-9E69-8AAE67F8831B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{29FA5E21-B3E0-4A93-9E69-8AAE67F8831B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FA5E21-B3E0-4A93-9E69-8AAE67F8831B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FA5E21-B3E0-4A93-9E69-8AAE67F8831B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{28445919-2277-4ACA-809D-2B69DE422078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28445919-2277-4ACA-809D-2B69DE422078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28445919-2277-4ACA-809D-2B69DE422078}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{28445919-2277-4ACA-809D-2B69DE422078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28445919-2277-4ACA-809D-2B69DE422078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28445919-2277-4ACA-809D-2B69DE422078}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4934F253-446F-441A-8EBB-0BA20E61E1D0}
+	EndGlobalSection
+EndGlobal
