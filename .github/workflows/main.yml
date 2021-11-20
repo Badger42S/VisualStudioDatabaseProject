@@ -26,4 +26,4 @@ jobs:
       - uses: actions/upload-artifact@v2
         with:
           name: DACPAC
-          path: ${{ github.workspace }}CustomerLibSemenkovDatabaseProject/bin/Release/
+          path: D:\a\VisualStudioDatabaseProject\CustomerLibSemenkovDatabaseProject\bin\Release\
